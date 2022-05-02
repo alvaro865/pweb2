@@ -35,15 +35,17 @@
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA INICIO::</td><td>25-Abr-2022</td><td>FECHA FIN:</td><td>29-Abr-2022</td><td>DURACIÓN:</td><td>04 horas</td>
+<td>FECHA PRESENTACION::</td><td>25-Abr-2022</td><td>HORA DE PRESENTACION:</td><td>29-Abr-2022</td><td></td><td></td>
 </tr>
-<tr><td colspan="6">RECURSOS A UTILIZAR:
+<tr>
+<td>INTEGRANTES::</td><td>
 <ul>
-<li><a href="https://guides.github.com/">https://guides.github.com/</a></li>
-<li><a href="https://git-scm.com/book/es/v2">https://git-scm.com/book/es/v2</a></li>
+<li>Suasaca Pacompia Alvaro Gustavo</li>
+<li>el que sigue</li>
 </ul>
+<td>NOTA</td><td></td><td></td><td></td>
 </td>
-</<tr>
+</tr>
 <tr><td colspan="6">DOCENTES:
 <ul>
 <li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe)</li>
